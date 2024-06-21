@@ -1,3 +1,4 @@
 # Volve-Production-Rate
 
-![image](https://github.com/GitHub-Nawatech-Lab/Volve-Production-Rate/assets/171122816/324f5aba-021a-4f6e-8d0f-6f136d88d1fc)
+<img align="left" width="250" height="150" src="https://github.com/GitHub-Nawatech-Lab/Volve-Production-Rate/blob/c43c6c1f1e107a13decfdc80466827dd035e2a4e/Volve%20ML%20Canvas.png">
+
