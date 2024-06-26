@@ -2,5 +2,3 @@ azure-ai-ml
 azure-ai-ml[mount]
 plotly
 seaborn
-matplotlib
-numpy
